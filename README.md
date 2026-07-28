@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,8 +19,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
