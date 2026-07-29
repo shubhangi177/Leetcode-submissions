@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0844-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
