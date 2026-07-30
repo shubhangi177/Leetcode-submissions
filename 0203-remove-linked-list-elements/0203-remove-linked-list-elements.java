@@ -14,11 +14,17 @@ class Solution {
         dummy.next = head;
 
         ListNode curr = dummy;
-        while(curr.next!=null){
-            if(curr.next.val == val){
+        while (curr.next != null) {
+            if (curr.next.val == val) {
+                // Delete the node.
                 curr.next = curr.next.next;
+
+                // Don't move curr.
+                // The new curr.next might also need to be deleted.
+            } else {
+                // Safe to move forward.
+                curr = curr.next;
             }
-            else curr = curr.next;
         }
         return dummy.next;
     }
