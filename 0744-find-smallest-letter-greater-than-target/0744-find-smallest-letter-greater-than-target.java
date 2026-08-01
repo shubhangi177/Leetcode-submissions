@@ -1,19 +1,19 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        int ans = Integer.MAX_VALUE;
+        int ans = 0;
         int low = 0;
         int high = letters.length - 1;
 
         while(low<=high){
             int mid = low+(high-low)/2;
             if(letters[mid] > target){
-                ans = Math.min(ans, letters[mid]);
+                ans = mid;
                 high = mid - 1;
             }else if(letters[mid]<=target){
                 low = mid + 1;
             }
         }
-        if(ans != Integer.MAX_VALUE) return (char)ans;
-        else return letters[0];
+
+        return letters[ans];
     }
 }
