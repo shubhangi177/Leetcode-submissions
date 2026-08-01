@@ -87,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
