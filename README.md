@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
