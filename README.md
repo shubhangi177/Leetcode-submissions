@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
