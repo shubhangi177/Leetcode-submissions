@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,4 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
