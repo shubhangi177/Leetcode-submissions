@@ -15,20 +15,30 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return isMirror(root.left, root.right);
-    }
-    public boolean isMirror(TreeNode n1, TreeNode n2){
-        if(n1==null && n2==null){
+        if (root == null) {
             return true;
         }
 
-        if(n1==null || n2==null){
+        return isMirror(root.left, root.right);
+    }
+
+    public boolean isMirror(TreeNode n1, TreeNode n2) {
+
+        // Both nodes are null
+        if (n1 == null && n2 == null) {
+            return true;
+        }
+
+        // One is null, the other isn't
+        if (n1 == null || n2 == null) {
             return false;
         }
 
-        if(n1.val == n2.val){
+        // Values must be equal
+        if (n1.val == n2.val) {
             return isMirror(n1.left, n2.right) && isMirror(n1.right, n2.left);
         }
+
         return false;
     }
 }
