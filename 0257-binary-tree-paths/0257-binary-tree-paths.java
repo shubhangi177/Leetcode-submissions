@@ -14,27 +14,55 @@
  * }
  */
 class Solution {
+
     public List<String> binaryTreePaths(TreeNode root) {
+
         List<String> result = new ArrayList<>();
         StringBuilder sb = new StringBuilder();
 
-        helper(root, result, sb);
+        helper(result, root, sb);
+
         return result;
     }
-    private void helper(TreeNode root, List<String> result, StringBuilder sb){
-        if(root == null){
+
+    private void helper(List<String> result, TreeNode root, StringBuilder sb) {
+
+        if (root == null) {
             return;
         }
+
+        // Save the length before adding the current node.
+        // We need this to BACKTRACK later.
         int len = sb.length();
+
+        // Add current node to the path.
         sb.append(root.val);
 
-        if(root.left == null && root.right == null){
+        // A path is complete ONLY when we reach a leaf.
+        if (root.left == null && root.right == null) {
+
             result.add(sb.toString());
-        }else{
+
+        } else {
+
+            // Current node is not a leaf, so continue the path.
             sb.append("->");
-            helper(root.left, result, sb);
-            helper(root.right, result, sb);
+
+            // Explore left subtree.
+            helper(result, root.left, sb);
+
+            // Explore right subtree.
+            helper(result, root.right, sb);
         }
+
+        /*
+         * BACKTRACK:
+         * Remove everything added during this call.
+         *
+         * This allows the same StringBuilder to be reused
+         * for another branch.
+         */
         sb.setLength(len);
     }
 }
+
