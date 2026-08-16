@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/2022-convert-1d-array-into-2d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
