@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shubhangi177/Leetcode-submissions/tree/master/0257-binary-tree-paths) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/shubhangi177/Leetcode-submissions/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
